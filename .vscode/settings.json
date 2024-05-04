@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.compilerPath": "/lib/gcc/x86_64-linux-gnu/11/cc1",
+    "files.associations": {
+        "io_context": "c",
+        "stdint.h": "c"
+    }
+}
